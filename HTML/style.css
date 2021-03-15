@@ -1,0 +1,379 @@
+body {
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #0262D3;
+    font-family: 'Poppins', sans-serif !important;
+
+    /* background: url('img/bg.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; */
+}
+
+.container2 {
+    width: 400px;
+}
+
+.container2 {
+    width: 400px;
+    height: 572px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.container3 {
+    width: 400px;
+    height: 510px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.container2_wallet {
+    width: 400px;
+    height: 656px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.container3_wallet {
+    width: 400px;
+    height: 594px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.container2_refer{
+    width: 400px;
+    height: 620px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.container3_refer {
+    width: 400px;
+    height: 610px;
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.logo {
+    text-align: center;
+    padding-top: -20px;
+    padding-bottom: -20px;
+}
+
+.text1 {
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.header-text {
+    font-size: 20px;
+    color: #0262D3;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.form-outline {
+    width: 325px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.form-control
+ {
+  background-color: #F2FAFF;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+.btn2 {
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.text2 {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.text3 {
+    font-size: 14px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.text4 {
+    font-size: 15px;
+    color: #00A6C8;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.text5 {
+    font-size: 15px;
+    color: #315F97;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.text6 {
+    font-size: 15px;
+    color: #315F97;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.text7 {
+    font-size: 13px;
+    color: #6098F1;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 2px;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.text8 {
+    font-size: 14px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.acc_info{
+    width: 400px;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.acc_lvl{
+    text-align: left;
+    font-size: 16px;
+    color: #666666;
+    width: 200px;
+    float: left;
+    padding-left: 40px;
+}
+
+.acc_val{
+    text-align: right;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 550;
+    width: 200px;
+    float: right;
+    padding-right: 40px;
+}
+
+
+ul.inline > li, ol.inline > li {
+    display: inline-block;
+ 
+}
+
+ul {
+    padding-left: 0px; 
+    margin-left: 0px;
+}
+
+.footer-menu {
+    color: #ffffff;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 0px;
+    text-align: center;
+}
+
+.keyword_box{
+    width: 360px;
+    height: 80px;
+    background-color: #E5F1FF;
+    border-radius: 5px;
+    margin: 20px auto 0px;
+}
+
+.keyword {
+    display: inline-block;
+    width: 360px;
+    height: 30px;
+}
+
+.keyword_txt {
+    width: 250px;
+    color: #00479D;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 16px;
+    text-align: left;
+    float: left;
+}
+
+.keyword_avail {
+    width: 110px;
+    color: #0BAC00;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-right: 16px;
+    text-align: right;
+    float: right;
+}
+
+.keyword_notavail {
+    width: 110px;
+    color: #F90606;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-right: 16px;
+    text-align: right;
+    float: right;
+}
+
+.keyword_info {
+    display: inline-block;
+    width: 360px;
+    height: 40px;
+}
+
+.keyword_info_txt {
+    width: 220px;
+    color: #000000;
+    font-size: 12px;
+    padding-left: 16px;
+    text-align: left;
+    float: left;
+    margin-top: 12px;
+}
+
+.keyword_info_btn .btn3{
+    margin-right: 16px;
+    width: 100px;
+    height: 28px;
+    float: right;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.sales_box {
+    width: 350px;
+    height: 150px;
+    border: solid 1px #00479D;
+    margin: 20px auto 0px;
+}
+
+.sales_title {
+    width: 350px;
+    height: 30px;
+    border: solid 1px #00479D;
+    text-align: center;
+    font-size: 15px;
+    color: #00479D;
+    font-weight: bold;
+    padding-top: 3px;
+}
+
+.sales_cont {
+    width: 350px;
+    height: 120px;
+    border: solid 1px #00479D;
+    display: inline-block;
+    background-color: #ECF5FF;
+}
+
+.sales_lvl{
+    text-align: left;
+    font-size: 16px;
+    color: #666666;
+    width: 160px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.sales_val{
+    text-align: right;
+    font-size: 16px;
+    color: #000000;
+    font-weight: 550;
+    width: 160px;
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.refer_box {
+    width: 56px;
+    height: 94px;
+    border: solid 1px #00479D;
+    margin-left: 4px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.refer_title {
+    width: 56px;
+    height: 20px;
+    border: solid 1px #00479D;
+    text-align: center;
+    font-size: 12px;
+    color: #00479D;
+    font-weight: bold;
+}
+
+.refer_cont1 {
+    font-size: 16px;
+    font-weight: bold;
+    width: 56px;
+    height: 24px;
+    border: solid 1px #00479D;
+    background-color: #FAFFEC;
+    color: #0262D3;
+}
+
+.refer_cont2 {
+    font-size: 10px;
+    font-weight: bold;
+    width: 56px;
+    height: 50px;
+    border: solid 1px #00479D;
+    background-color: #ECF5FF;
+    color: #0262D3;
+}
+
+
+@media (max-width: 575.98px) { 
+    .footer-contain {
+        font-size: 13px;
+    }
+
+    /* .scrolling-wrapper {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+      }
+
+      .card1 {
+        display: inline-block;
+      } */
+
+ }
